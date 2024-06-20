@@ -1,0 +1,16 @@
+{
+  "name": "wcag-compliance-testing",
+  "version": "1.0.0",
+  "description": "1. Install Node.js: If you don't have Node.js installed, download and install it from Node.js official website.",
+  "main": "evaluateAcessibility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axe-core": "^4.9.1",
+    "puppeteer": "^22.11.2"
+  }
+}

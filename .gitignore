@@ -1,0 +1,67 @@
+# Node modules directory
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directory for temporary build files
+dist/
+
+# Directory for local environment settings
+.env
+
+# Coverage directory used by testing tools
+coverage/
+
+# Ignore all .log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript compiled output
+*.tsbuildinfo
+*.d.ts
+*.js.map
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# dotenv environment variable files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# SvelteKit build output
+.svelte-kit
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore build output
+build/
+out/
